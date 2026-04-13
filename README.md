@@ -43,6 +43,12 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 ⚡ Real-time analytics • 🤖 AI chatbot • 📈 Smart insights
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--Time-Data-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web3-Ready-black?style=flat-square"/>
+</p>
+
 ---
 
 ## 🧠 Tech Stack
@@ -53,15 +59,17 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 
 ---
 
-## 📊 GitHub Power
+## 🧊 Developer Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=150ftw&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://img.shields.io/badge/Total%20Contributions-137-0f2027?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Current%20Streak-2-0f2027?style=for-the-badge&logo=firefox&logoColor=orange&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20SaaS-0f2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027&color=2c5364" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=150ftw&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Status-Building%20EcoInsight-0f2027?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f2027&color=2c5364" />
 </p>
 
 ---
