@@ -56,11 +56,14 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 ## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-137-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Streak-2-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20SaaS-black?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=150ftw&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-MERN%20%2B%20Next.js-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20EcoInsight-success?style=for-the-badge" />
 </p>
 
 
