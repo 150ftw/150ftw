@@ -55,13 +55,12 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 
 ## 📊 GitHub Power
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+- 🔥 Actively building and shipping projects  
+- 🚀 Focused on real-world products (EcoInsight)  
+- 💻 Strong in Full-Stack Development (MERN + Next.js)  
+- ⚡ Exploring AI, Web3 & scalable systems  
+- 📈 Consistently improving and learning  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=150ftw&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
 
 ---
 
