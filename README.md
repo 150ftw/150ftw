@@ -1,96 +1,115 @@
-<div align="center">
+<h1 align="center">Shivam Sharma 🚀</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=220&section=header&text=Shivam%20Sharma&fontSize=70&fontColor=00f7ff&fontAlignY=50&desc=Full-Stack%20Engineer%20•%20AI%20Builder%20•%20Founder&descSize=18&descAlignY=75&descColor=8892b0&animation=fadeIn"/>
+<h3 align="center">
+Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsight.AI
+</h3>
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+EcoInsight+🚀;AI+%2B+Web3+Developer;Startup+Builder;Turning+Ideas+into+Products">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+for+real+users.;Founder+of+EcoInsight+🚀;Web3+%2B+AI+%2B+Full-Stack;Ship+fast.+Break+things.+Learn+faster."/>
-
-<br/><br/>
-
+<p align="center">
 <a href="https://www.ecoinsight.online/">
-  <img src="https://img.shields.io/badge/🚀_Live_Product-EcoInsight-00f7ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🚀 EcoInsight-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/shivam-sharma-331945284/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Sharma-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:ss18244646@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-```ts
-const shivam = {
-  title: "Full-Stack Developer & Founder",
-  company: "EcoInsight",
-  location: "Gurugram, India 🇮🇳",
+- Builder mindset • I ship fast  
+- Founder @ EcoInsight  
+- Focus: AI + Web3 + SaaS  
+- Turning ideas into real products 🚀  
 
-  building: "AI-powered stock intelligence platform",
-  focus: ["AI SaaS", "Stock Market Tech", "Web3"],
+---
 
-  tech: {
-    frontend: ["Next.js", "React", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "PostgreSQL", "Firebase"],
-    infra: ["AWS", "Docker", "Vercel"]
-  },
+## 🚀 EcoInsight — AI Stock Platform
 
-  philosophy: "Execution > Ideas",
-  currentGoal: "Scaling EcoInsight to 10k+ users 🎯"
-};
-```
+<p align="center">
+<a href="https://www.ecoinsight.online/">
+<img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="100%"/>
+</a>
+</p>
 
-🚀 EcoInsight — Flagship Product
-<div align="center"> <a href="https://www.ecoinsight.online/"> <img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="90%" style="border-radius:12px; border:1px solid #21262d;" /> </a> </div>
-💡 Features
-📊 Real-time Indian stock analytics
-🤖 AI chatbot (RAG-powered)
-📈 Smart portfolio insights
-⚡ Beginner-friendly decisions
-📍 Status
-✅ Live & growing
-🔨 Web3 wallet integration (in progress)
-📱 Mobile app coming soon
-🧠 Tech Arsenal
-<div align="center">
-Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,figma&theme=dark" />
-Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,redis&theme=dark" />
-DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,linux&theme=dark" />
-Exploring
-<img src="https://skillicons.dev/icons?i=solidity,python,tensorflow&theme=dark" /> </div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=8892b0"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=150ftw&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=8892b0"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=150ftw&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=150ftw&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true"/> </div>
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=150ftw&theme=onestar&no-frame=true&no-bg=true&row=1&column=7"/> </div>
+<p align="center">
+⚡ Real-time analytics • 🤖 AI chatbot • 📈 Smart insights
+</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--Time-Data-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web3-Ready-black?style=flat-square"/>
+</p>
 
-2026 GOALS
-══════════════════════════════════════
+---
 
-Q1  ✅ EcoInsight Launch
-Q2  🔨 AI Chatbot v2 (multi-stock intelligence)
-Q2  🔨 Web3 Portfolio Integration
-Q3  📱 Mobile App Launch
-Q3  🎯 10,000 Users
-Q4  🌍 Global Expansion
+## 🧠 Tech Stack
 
-══════════════════════════════════════
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,aws,git,figma&theme=dark" />
+</p>
 
+---
 
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/shivam-sharma-331945284/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://discord.com/users/453869754944585738"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://instagram.com/shiv_mmm"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:ss18244646@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=150ftw&color=00f7ff&style=flat-square&label=👁️+Profile+Views"/> <br/>
+## 🧊 Developer Dashboard
 
-"The best time to start was yesterday. The second best time is now."
+<p align="center">
+<img src="https://img.shields.io/badge/Total%20Contributions-137-0f2027?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Current%20Streak-2-0f2027?style=for-the-badge&logo=firefox&logoColor=orange&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20SaaS-0f2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027&color=2c5364" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=100&section=footer"/> </div> ```
+<p align="center">
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Status-Building%20EcoInsight-0f2027?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f2027&color=2c5364" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=150ftw&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=150ftw&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shivam-sharma-331945284/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/shiv_mmm">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://discord.com/users/453869754944585738">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
+
+---
+
+<p align="center">
+🔥 Building scalable tech. 🚀 Launching ideas. 💡 Solving real problems.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
