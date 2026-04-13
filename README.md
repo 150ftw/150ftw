@@ -56,14 +56,19 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 ## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-137-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20Streak-2-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20SaaS-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Total%20Contributions-137-0f2027?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Current%20Streak-2-0f2027?style=for-the-badge&logo=firefox&logoColor=orange&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Longest%20Streak-2-0f2027?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0f2027&color=2c5364" />
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-MERN%20%2B%20Next.js-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20EcoInsight-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20SaaS-0f2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f2027&color=2c5364" />
+<img src="https://img.shields.io/badge/Status-Building%20EcoInsight-0f2027?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f2027&color=2c5364" />
+
 </p>
 
 
