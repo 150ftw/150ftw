@@ -31,6 +31,14 @@
 ```
 NIFTY 50   → LIVE
 SENSEX     → LIVE
+BTC        → 2321(shuf -i 60000-70000 -n 1)
+ETH        → 2321(shuf -i 2500-3500 -n 1)
+```
+## 📈 Market Snapshot
+
+```
+NIFTY 50   → LIVE
+SENSEX     → LIVE
 BTC        → 2255(shuf -i 60000-70000 -n 1)
 ETH        → 2255(shuf -i 2500-3500 -n 1)
 ```
@@ -54,6 +62,14 @@ ETH        → 2255(shuf -i 2500-3500 -n 1)
 ```
 EcoInsight Status : ONLINE
 AI Engine         : ACTIVE
+Last Update       : 2322(date)
+Build Mode        : Shipping Weekly
+```
+## ⚡ System Status
+
+```
+EcoInsight Status : ONLINE
+AI Engine         : ACTIVE
 Last Update       : 2256(date)
 Build Mode        : Shipping Weekly
 ```
@@ -69,6 +85,13 @@ Build Mode        : Shipping Weekly
 ---
 
 <!--START_SECTION:logs-->
+## 🧠 System Logs
+
+```
+[2323(date '+%Y-%m-%d')] System running smoothly
+[2323(date '+%Y-%m-%d')] Updating AI models
+[2323(date '+%Y-%m-%d')] Monitoring data pipelines
+```
 ## 🧠 System Logs
 
 ```
