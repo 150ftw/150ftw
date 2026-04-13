@@ -36,7 +36,7 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 
 <p align="center">
   <a href="https://www.ecoinsight.online/">
-    <img src="https://user-images.githubusercontent.com/placeholder/ecoinsight-preview.png" width="800"/>
+    <img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="100%"/>
   </a>
 </p>
 
@@ -61,6 +61,9 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=150ftw&theme=tokyonight" />
 </p>
 
