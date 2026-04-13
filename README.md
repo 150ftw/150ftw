@@ -28,14 +28,6 @@
 <!--START_SECTION:market-->
 ## 📈 Market Snapshot
 
-```
-NIFTY 50   → LIVE
-SENSEX     → LIVE
-BTC        → 2268(shuf -i 60000-70000 -n 1)
-ETH        → 2268(shuf -i 2500-3500 -n 1)
-```
-## 📈 Market Snapshot
-
     NIFTY 50   → LIVE TRACKING
     SENSEX     → ACTIVE
     BANK NIFTY → VOLATILE
@@ -57,16 +49,6 @@ AI Engine         : ACTIVE
 Last Update       : 2269(date)
 Build Mode        : Shipping Weekly
 ```
-## ⚡ System Status
-
-    EcoInsight Status : ONLINE
-    AI Engine         : ACTIVE
-    Data Pipelines    : RUNNING
-    API Latency       : OPTIMIZED
-
-    Last Update       : Initializing...
-    Build Mode        : Shipping Weekly
-<!--END_SECTION:status-->
 
 ---
 
@@ -78,12 +60,6 @@ Build Mode        : Shipping Weekly
 [2270(date '+%Y-%m-%d')] Updating AI models
 [2270(date '+%Y-%m-%d')] Monitoring data pipelines
 ```
-## 🧬 Build Logs
-
-    [2026-04-14] Booting system modules
-    [2026-04-14] Initializing AI inference engine
-    [2026-04-14] Syncing market data pipelines
-    [2026-04-14] System ready for live updates
 <!--END_SECTION:logs-->
 
 ---
