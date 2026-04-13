@@ -56,8 +56,7 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast • Co-founder @ EcoInsi
 ## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=150ftw&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
