@@ -1,7 +1,7 @@
-<h1 align="center">Shivam Sharma 🚀</h1>
+<h1 align="center">Hey 👋, I'm Shivam Sharma</h1>
 
 <p align="center">
-Full-Stack Developer • Web3 Builder • AI Enthusiast  
+Turning Ideas into Real Products 🚀
 </p>
 
 <p align="center">
@@ -12,38 +12,56 @@ Full-Stack Developer • Web3 Builder • AI Enthusiast
 
 ---
 
-## ⚡ About
-
-- Building **EcoInsight** — AI-powered stock market platform  
-- Interested in **AI, Web3, SaaS**  
-- Focused on **real-world products**  
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 🚀 EcoInsight
+## ⚡ About Me
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="90%">
-</p>
-
-<p align="center">
-AI • Real-time data • Smart insights
-</p>
+- 🌱 Learning **AI, Web3, System Design**
+- 🚀 Building **EcoInsight (Stock Market AI Platform)**
+- 🤝 Open to **collabs & startup ideas**
+- 📫 Reach me: **ss18244646@gmail.com**
+- ⚡ Fun fact: I build faster than I consume content
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,aws,git" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,aws,git" />
 </p>
 
 ---
 
-## 📊 GitHub
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=150ftw&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+<a href="https://www.ecoinsight.online/">
+<img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="90%">
+</a>
+</p>
+
+<p align="center">
+AI • Real-time data • Smart insights
 </p>
 
 ---
