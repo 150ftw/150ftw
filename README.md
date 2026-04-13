@@ -25,26 +25,42 @@
 
 ---
 
-## 📡 LIVE MARKET PANEL (AUTO)
-
 <!--START_SECTION:market-->
-Loading market data...
+## 📈 Market Snapshot
+
+    NIFTY 50   → LIVE TRACKING
+    SENSEX     → ACTIVE
+    BANK NIFTY → VOLATILE
+
+    BTC (USD)  → $65,842
+    ETH (USD)  → $3,214
+
+    Market Mood → Mixed / High Volatility
 <!--END_SECTION:market-->
 
 ---
 
-## ⚡ LIVE SYSTEM STATUS
-
 <!--START_SECTION:status-->
-Loading system status...
+## ⚡ System Status
+
+    EcoInsight Status : ONLINE
+    AI Engine         : ACTIVE
+    Data Pipelines    : RUNNING
+    API Latency       : OPTIMIZED
+
+    Last Update       : Initializing...
+    Build Mode        : Shipping Weekly
 <!--END_SECTION:status-->
 
 ---
 
-## 🧬 BUILD LOGS (AUTO)
-
 <!--START_SECTION:logs-->
-Loading logs...
+## 🧬 Build Logs
+
+    [2026-04-14] Booting system modules
+    [2026-04-14] Initializing AI inference engine
+    [2026-04-14] Syncing market data pipelines
+    [2026-04-14] System ready for live updates
 <!--END_SECTION:logs-->
 
 ---
