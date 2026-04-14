@@ -142,9 +142,6 @@ Web3 / Solidity       █████████████░░░░░░�
 &nbsp;
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=150ftw&layout=compact&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&text_color=374151&langs_count=7"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=150ftw&theme=github-dark-blue&hide_border=true&background=030712&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=374151&dates=1f2937&sideNums=00d4ff"/>
 
 </div>
 
@@ -170,7 +167,6 @@ Web3 / Solidity       █████████████░░░░░░�
 | 🐍 Neon Cyan Contribution Snake | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
 | 📊 GitHub Stats Cards | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
 | 🔥 Streak Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
-| 🏆 Trophy Shelf | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
 | 👁️ Live Profile View Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
 
 </div>
@@ -193,7 +189,7 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Int
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=150ftw&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=150ftw&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
