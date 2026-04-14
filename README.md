@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-[![EcoInsight](https://img.shields.io/badge/%F0%9F%9A%80_EcoInsight.AI-LIVE-00d4ff?style=for-the-badge&labelColor=030712)](https://www.ecoinsight.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712)](https://www.linkedin.com/in/shivam-sharma-331945284/)
 [![Instagram](https://img.shields.io/badge/Instagram-@shiv__mmm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030712)](https://instagram.com/shiv_mmm)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=030712)](https://discord.com/users/453869754944585738)
