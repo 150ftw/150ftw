@@ -198,57 +198,40 @@ Web3 / Solidity       █████████████░░░░░░�
 
 ---
 
-## 🎯 Features That Make This README Unique
+## ⚡ What Makes This Profile Different
 
-> Below are live GitHub Actions powering dynamic elements on this profile. **Nobody else has these.**
+<div align="center">
 
-<details>
-<summary><b>▸ 🏙️ 3D Isometric Contribution City (Setup Guide)</b></summary>
+| Feature | Status | How |
+|---|:---:|---|
+| 🏙️ 3D Isometric Contribution City | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | SVG committed to repo |
+| 🌊 Contribution Graph | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Auto-rendered via API |
+| 📊 GitHub Stats Cards | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Dynamic API badges |
+| 🔥 Streak Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Auto-updates daily |
+| 🏆 Trophy Shelf | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Dynamic GitHub trophies |
+| 👁️ Profile View Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Live visitor count |
+| 🐍 Neon Contribution Snake | ![](https://img.shields.io/badge/-Setup_below-ffa657?style=flat-square&labelColor=030712) | 2-min GitHub Action |
 
-Your contribution graph rendered as a **3D city skyline** — the taller the buildings, the more you committed. Updates daily via GitHub Actions.
+</div>
 
-**Step 1:** Go to `Settings → Developer settings → Personal access tokens` → generate token with `repo` scope.
+---
 
-**Step 2:** Add it as a secret named `METRICS_TOKEN` in your profile repo.
+## 🐍 Neon Contribution Snake — Setup (2 min)
 
-**Step 3:** Create `.github/workflows/metrics.yml`:
+> This replaces the boring green snake with a **glowing cyan plasma worm** eating your commits.
 
-```yaml
-name: 3D Contribution City
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: 150ftw
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-```
+**Step 1 — Create this file in your profile repo:**
 
-**Step 4:** In your README, add: `![City](github-metrics.svg)`
-
-</details>
-
-<details>
-<summary><b>▸ 🐍 Plasma Worm (Upgrade from boring snake)</b></summary>
-
-Instead of the boring contribution snake, use the **neon plasma worm** — same concept, insane visual upgrade.
-
-Create `.github/workflows/plasma-worm.yml`:
+`.github/workflows/snake.yml`
 
 ```yaml
-name: Plasma Worm
+name: Generate Snake
 on:
-  schedule: [{cron: "0 */6 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -256,8 +239,7 @@ jobs:
           github_user_name: 150ftw
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#00d4ff&color_dots=#030712,#0d2137,#1a3f5c,#00d4ff,#00ffff
+            dist/ocean.gif?color_snake=#00d4ff&color_dots=#030712,#0a1628,#0d2137,#0077b5,#00d4ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v3
@@ -268,65 +250,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then embed: `![Worm](https://raw.githubusercontent.com/150ftw/150ftw/output/ocean.gif)`
+**Step 2 — Run it:** Go to `Actions` tab → click `Generate Snake` → `Run workflow`
 
-</details>
+**Step 3 — Add to your README** (replace the activity graph section):
 
-<details>
-<summary><b>▸ 📡 Live WakaTime Coding Stats (What you're coding right now)</b></summary>
-
-Shows your **real-time coding activity** — which languages, which projects, which hours you code. Updates weekly.
-
-**Step 1:** Sign up at [wakatime.com](https://wakatime.com) — install the VS Code extension. It silently tracks your coding.
-
-**Step 2:** Add `WAKATIME_API_KEY` as a secret in your repo.
-
-**Step 3:** Create `.github/workflows/waka.yml`:
-
-```yaml
-name: WakaTime Stats
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_SHORT_INFO: "True"
+```md
+![Snake](https://raw.githubusercontent.com/150ftw/150ftw/output/ocean.gif)
 ```
 
-**Step 4:** Add these markers anywhere in your README:
-```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-```
-
-It auto-fills with your live stats every day.
-
-</details>
-
-<details>
-<summary><b>▸ 🎵 Spotify Now Playing (Show what you're listening to)</b></summary>
-
-Embed a **live Spotify card** showing the exact song you're listening to while coding.
-
-1. Go to [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/)
-2. Connect your Spotify account
-3. Copy the generated markdown embed
-4. Paste into your README — it updates in real time
-
-Result looks like: `▶ Listening to: [Song Name] — Artist`
-
-</details>
+> That's it. It auto-regenerates every night. 🎉
 
 ---
 
