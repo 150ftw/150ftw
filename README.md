@@ -186,10 +186,22 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Int
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=150ftw&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+![](https://img.shields.io/badge/🚀_Co--Founder-EcoInsight.AI-00d4ff?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/🌐_Live_Product-In_Production-00ff88?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/🤖_AI_Builder-RAG_%2B_LLMs-a5b4fc?style=for-the-badge&labelColor=030712)
+
+![](https://img.shields.io/badge/⛓️_Web3_Dev-Solidity_%2B_DeFi-ffa657?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/☁️_Cloud_Deployed-AWS_%2B_Docker-00d4ff?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/📱_Mobile_App-React_Native-a5b4fc?style=for-the-badge&labelColor=030712)
+
+![](https://img.shields.io/badge/💡_Open_To-Collabs_%26_Ideas-00ff88?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/📈_Stock_Tech-FinTech_Builder-ffa657?style=for-the-badge&labelColor=030712)
+![](https://img.shields.io/badge/🔥_Mindset-Build_→_Ship_→_Scale-ff6b6b?style=for-the-badge&labelColor=030712)
+
 </div>
 
 ---
