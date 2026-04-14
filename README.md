@@ -1,6 +1,10 @@
 <div align="center">
 
-![Banner](banner.svg)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               ANIMATED MATRIX RAIN HEADER BANNER             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,40:030712,100:030712&height=300&section=header&text=Shivam%20Sharma&fontSize=82&fontColor=ffffff&fontAlignY=48&desc=%2F%2F%20full-stack%20%C2%B7%20web3%20%C2%B7%20ai%20%C2%B7%20co-founder%20%40%20EcoInsight.AI&descSize=15&descAlignY=65&descColor=1f2937&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
 
 </div>
 
@@ -55,23 +59,6 @@ const shivam = {
 
 ---
 
-## 🌆 GitHub Skyline — 3D Contribution City
-
-<div align="center">
-
-> Your commits rendered as a **3D printable city skyline** — the tallest towers = your most active weeks.
-
-[![GitHub Skyline](https://img.shields.io/badge/View_3D_Skyline-150ftw_2026-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=030712)](https://skyline.github.com/150ftw/2026)
-
-| Year | Link |
-|---|---|
-| 2026 | [skyline.github.com/150ftw/2026](https://skyline.github.com/150ftw/2026) |
-| 2025 | [skyline.github.com/150ftw/2025](https://skyline.github.com/150ftw/2025) |
-
-</div>
-
----
-
 ## 🚀 EcoInsight.AI — Flagship Product
 
 <div align="center">
@@ -117,10 +104,6 @@ const shivam = {
 ## 🧠 Tech Stack
 
 <div align="center">
-
-![Marquee](marquee.svg)
-
-<br/>
 
 **◦ Frontend ◦**
 <br/>
@@ -277,8 +260,6 @@ const currentlyLearning = {
 
 > Building in **AI**, **Web3**, or **SaaS**?
 > Ideas, collabs, feedback — all welcome. DM anywhere below.
-
-📝 **Latest on LinkedIn** → [Follow for updates on EcoInsight, Web3 & AI builds](https://www.linkedin.com/in/shivam-sharma-331945284/)
 
 <br/>
 
