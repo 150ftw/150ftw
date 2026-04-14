@@ -59,7 +59,13 @@ const shivam = {
 <!-- File: .github/workflows/isometric-city.yml -->
 <!-- Uses: https://github.com/lowlighter/metrics with isocalendar plugin -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&icon_color=00d4ff&text_color=4a5568&ring_color=00d4ff&include_all_commits=true&count_private=true&hide_title=true&custom_title=Contribution+City" width="60%"/>
+<!-- After running the GitHub Action below, replace this line with: -->
+<!-- ![Contribution City](github-metrics.svg) -->
+
+> **⚙️ Setup in 5 min → see the collapsible section below to activate your real 3D city.**
+> Once the GitHub Action runs, your live contribution data generates this automatically.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=150ftw&bg_color=030712&color=00d4ff&line=a5b4fc&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&radius=8&custom_title=Contribution+Graph" width="100%"/>
 
 </div>
 
