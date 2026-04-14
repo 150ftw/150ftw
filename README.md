@@ -210,6 +210,50 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░  🌍  Int
 
 ---
 
+## 🎵 Spotify — Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=0x7ho34rb4dvegwoh0jhz7kpq&cover_image=true&theme=novatorem&show_offline=true&background_color=030712&interchange=true&bar_color=00d4ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=0x7ho34rb4dvegwoh0jhz7kpq&redirect=true)
+
+</div>
+
+---
+
+## 💡 Currently Learning
+
+<div align="center">
+
+![](https://img.shields.io/badge/Solidity-Smart_Contracts_%26_DeFi-a5b4fc?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=030712)
+![](https://img.shields.io/badge/LangChain-Advanced_RAG_Pipelines-00d4ff?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=030712)
+![](https://img.shields.io/badge/React_Native-Mobile_Development-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=030712)
+
+![](https://img.shields.io/badge/System_Design-Scalable_Architecture-ffa657?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=030712)
+![](https://img.shields.io/badge/Web3.js-On--chain_Data_%26_Wallets-f6851b?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=030712)
+
+</div>
+
+```typescript
+const currentlyLearning = {
+  focus    : ["Advanced RAG", "Solidity + DeFi", "React Native"],
+  reading  : "Designing Data-Intensive Applications — Martin Kleppmann",
+  building : "EcoInsight Web3 module + Mobile App",
+  goal     : "Ship mobile app by Q3 2026 🎯",
+};
+```
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
