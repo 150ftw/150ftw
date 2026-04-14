@@ -190,10 +190,12 @@ Web3 / Solidity       █████████████░░░░░░�
 
 ---
 
-## 🌊 Contribution Graph
+## 🐍 Neon Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=150ftw&bg_color=030712&color=00d4ff&line=a5b4fc&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&radius=8"/>
+
+![Snake](https://raw.githubusercontent.com/150ftw/150ftw/output/ocean.gif)
+
 </div>
 
 ---
@@ -202,63 +204,16 @@ Web3 / Solidity       █████████████░░░░░░�
 
 <div align="center">
 
-| Feature | Status | How |
-|---|:---:|---|
-| 🏙️ 3D Isometric Contribution City | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | SVG committed to repo |
-| 🌊 Contribution Graph | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Auto-rendered via API |
-| 📊 GitHub Stats Cards | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Dynamic API badges |
-| 🔥 Streak Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Auto-updates daily |
-| 🏆 Trophy Shelf | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Dynamic GitHub trophies |
-| 👁️ Profile View Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) | Live visitor count |
-| 🐍 Neon Contribution Snake | ![](https://img.shields.io/badge/-Setup_below-ffa657?style=flat-square&labelColor=030712) | 2-min GitHub Action |
+| Feature | Status |
+|---|:---:|
+| 🏙️ 3D Isometric Contribution City | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
+| 🐍 Neon Cyan Contribution Snake | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
+| 📊 GitHub Stats Cards | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
+| 🔥 Streak Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
+| 🏆 Trophy Shelf | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
+| 👁️ Live Profile View Counter | ![](https://img.shields.io/badge/-✓_Live-00ff88?style=flat-square&labelColor=030712) |
 
 </div>
-
----
-
-## 🐍 Neon Contribution Snake — Setup (2 min)
-
-> This replaces the boring green snake with a **glowing cyan plasma worm** eating your commits.
-
-**Step 1 — Create this file in your profile repo:**
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: 150ftw
-          outputs: |
-            dist/snake.svg
-            dist/ocean.gif?color_snake=#00d4ff&color_dots=#030712,#0a1628,#0d2137,#0077b5,#00d4ff
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2 — Run it:** Go to `Actions` tab → click `Generate Snake` → `Run workflow`
-
-**Step 3 — Add to your README** (replace the activity graph section):
-
-```md
-![Snake](https://raw.githubusercontent.com/150ftw/150ftw/output/ocean.gif)
-```
-
-> That's it. It auto-regenerates every night. 🎉
 
 ---
 
