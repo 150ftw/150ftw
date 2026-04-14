@@ -138,9 +138,9 @@ Web3 / Solidity       █████████████░░░░░░�
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=150ftw&show_icons=true&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&icon_color=00d4ff&text_color=374151&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=150ftw&show_icons=true&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&icon_color=00d4ff&text_color=374151&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=150ftw&layout=compact&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&text_color=374151&langs_count=7"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=150ftw&layout=compact&theme=github_dark&hide_border=true&bg_color=030712&title_color=00d4ff&text_color=374151&langs_count=7"/>
 
 <br/>
 
