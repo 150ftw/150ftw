@@ -51,53 +51,11 @@ const shivam = {
 
 ## 🏙️ Contribution City — 3D Isometric Grid
 
-> ✨ **Way beyond the snake.** Every column = a week. Every tower = your commit count. The taller the building, the more you shipped that week.
-
 <div align="center">
-
-<!-- SETUP: Add this GitHub Action to auto-generate your isometric city -->
-<!-- File: .github/workflows/isometric-city.yml -->
-<!-- Uses: https://github.com/lowlighter/metrics with isocalendar plugin -->
 
 ![Contribution City](github-metrics.svg)
 
-<!-- If github-metrics.svg hasn't generated yet, it will appear after your first Action run -->
-
 </div>
-
-```
-▓▓▓ HOW TO ADD YOUR REAL 3D CITY ▓▓▓
-1. Create: .github/workflows/metrics.yml
-2. Add this action config (see below)
-3. Push → GitHub generates your isometric city SVG automatically
-4. Reference it as: ![city](github-metrics.svg)
-```
-
-<details>
-<summary><b>▸ 📋 Click to Copy: isometric-city.yml GitHub Action</b></summary>
-
-```yaml
-name: Isometric Contribution City
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: 150ftw
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          filename: github-metrics.svg
-          output_action: commit
-          committer_branch: main
-```
-
-</details>
 
 ---
 
