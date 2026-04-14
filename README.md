@@ -14,6 +14,7 @@
 
 <br/><br/>
 
+[![EcoInsight](https://img.shields.io/badge/%F0%9F%9A%80_EcoInsight.AI-LIVE-00d4ff?style=for-the-badge&labelColor=030712)](https://www.ecoinsight.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712)](https://www.linkedin.com/in/shivam-sharma-331945284/)
 [![Instagram](https://img.shields.io/badge/Instagram-@shiv__mmm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030712)](https://instagram.com/shiv_mmm)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=030712)](https://discord.com/users/453869754944585738)
@@ -62,15 +63,19 @@ const shivam = {
 
 <div align="center">
 
-<a href="https://www.ecoinsight.online/">
-<img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="88%" style="border-radius:12px"/>
-</a>
-
-<br/><br/>
-
 **AI-powered stock analytics for retail investors who want an edge.**
 
 <br/>
+
+<a href="https://www.ecoinsight.online/">
+<img src="https://raw.githubusercontent.com/150ftw/VeyanofoodsBackup/main/Screenshot%202026-04-14%20003714.png" width="88%" style="border-radius:12px 12px 0 0"/>
+</a>
+
+<a href="https://www.ecoinsight.online/">
+<img src="https://raw.githubusercontent.com/150ftw/150ftw/refs/heads/main/chatinterface.png" width="88%" style="border-radius:0 0 12px 12px"/>
+</a>
+
+<br/><br/>
 
 <table>
 <tr>
