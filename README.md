@@ -59,7 +59,9 @@ const shivam = {
 <!-- File: .github/workflows/isometric-city.yml -->
 <!-- Uses: https://github.com/lowlighter/metrics with isocalendar plugin -->
 
-![Contribution City](contribution-city.svg)
+![Contribution City](github-metrics.svg)
+
+<!-- If github-metrics.svg hasn't generated yet, it will appear after your first Action run -->
 
 </div>
 
